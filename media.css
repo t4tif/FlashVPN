@@ -2,7 +2,7 @@
 
 @media only screen and (max-width: 395px) {
     .divtext2 {
-        width: 300px ;
+        width: 100%;
     }
     .foot1 {
         margin-top: 100px !important;
