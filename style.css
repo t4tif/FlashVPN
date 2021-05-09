@@ -280,7 +280,10 @@ header nav a:hover {color: var(--blue1);}
    justify-content: center;
    margin-top: 70px;
 }
-.localisation img {width: 700px;}
+.localisation img {
+    width: 100%;
+    max-width: 700px;
+}
 
 .pub {
     max-width: 1150px;
@@ -418,3 +421,4 @@ footer h3 {color: var(--h1_color);}
 .div_footer a img {margin-bottom: 20px;}
 .div_footer ol li {margin-top: 20px;}
 .foot2 a:hover {text-decoration: underline;}
+
